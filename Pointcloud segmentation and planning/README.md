@@ -1,4 +1,4 @@
-````markdown
+
 # Point Cloud Segmentation and Planning Pipeline
 
 This project implements a complete **perception → reasoning → planning** pipeline on urban LiDAR data using a tile from the **Toronto-3D dataset** (`L001.ply`).  
@@ -336,5 +336,4 @@ All results are stored in the `outputs/` directory:
   * Methodological clarity
   * End-to-end pipeline completeness
 
-```
-```
+
